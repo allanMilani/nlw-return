@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .button {
+    @apply bg-violet-500 p-2 rounded hover:bg-violet-700
+} */
+
+body {
+    @apply bg-[#09090A] text-zinc-100;
+}
